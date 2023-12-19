@@ -1,0 +1,17 @@
+from IPython.display import display, Math
+import sympy
+
+display() = print as math symbols
+display(Math(f"")) = math action inside
+
+display(Math("\\frac")) = divide symbol
+display(Math("\\times")) = times symbol
+display(Math("5^2")) = power symbol
+
+x, y, z = sympy.symbols('x y z') = create a math symbols 
+sympy.latex() = 
+sympy.simplify() = 
+sympy.solve() = 
+
+math = x + 5
+math.subs({ x : 2}) = change symbol 'x' to 2
