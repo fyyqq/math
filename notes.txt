@@ -14,4 +14,22 @@ sympy.simplify() =
 sympy.solve() = 
 
 math = x + 5
-math.subs({ x : 2}) = change symbol 'x' to 2
+math.subs({ x : 2}) = change symbol 'x' to 2s
+
+====== MATH ======
+mean = find middle data
+median = sort & find middle data
+modus = find most duplicated data
+std = ---------------------
+25% = 25% front data
+50% = 50% front data
+75% = 75% front data
+abs = negative number to positive
+mode = get duplicated number
+min = minimum data
+max = maximum data
+count = length of data
+sum = addition data
+prod = multiple data
+cumsum = addition data from left / top
+cumprod = multiple data from left / top
